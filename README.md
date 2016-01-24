@@ -1,6 +1,7 @@
 # Program-Title-Changer
 Program-Title-Changer
 
+![alt tag](https://github.com/rinechran/Program-Title-Changer/blob/master/capture.PNG)
 
 # Download
 
